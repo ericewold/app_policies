@@ -1,0 +1,75 @@
+body {
+  font-family: "Helvetica", sans-serif;
+}
+
+.policy-section {
+  margin-bottom: 20px;
+  border-top: 1px solid gray;
+  padding-top: 5px;
+}
+
+.section-heading {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.section-heading a {
+  font-weight: bold;
+  color: blue;
+  text-decoration: none;
+}
+.sub-section-heading {
+  font-weight: bold;
+}
+.sub-section-usage-summary {
+  color: gray;
+  font-style: italic;
+  font-size: 0.9em;
+}
+.sub-section-body {
+  margin-top: 10px;
+}
+
+strong {
+  font-weight: 700;
+}
+.tg {
+  border-collapse: collapse;
+  border-spacing: 0;
+  margin: 0px auto;
+}
+.tg td {
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  overflow: hidden;
+  padding: 10px 5px;
+  word-break: normal;
+}
+.tg th {
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  overflow: hidden;
+  padding: 10px 5px;
+  word-break: normal;
+}
+.tg .tg-c3ow {
+  border-color: inherit;
+  text-align: left;
+  vertical-align: top;
+}
+.tg .tg-0lax {
+  text-align: left;
+  vertical-align: top;
+}
+.tg .tg-0pky {
+  border-color: inherit;
+  text-align: left;
+  vertical-align: top;
+}

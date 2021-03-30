@@ -1,0 +1,8 @@
+body {
+  font-family: "Helvetica", sans-serif;
+}
+.section {
+  margin-top: 10px;
+  display: grid;
+  grid-template-columns: 1fr 10fr;
+}
